@@ -12,3 +12,6 @@ Some Interesting observations from the data:
   5. KNN after reducing the dimensions using PCA: 89% (The wierd thing is that, without metadata, with tfidf vectorizer the model was able to achieve only 20% accuracy, but with 200 prinicpal components considered, the model was able to achieve 89% accuracy)
   
  
+ The repository consists of a python notebook, where I have gone through the detailed analysis of the data and have shown how one model performed better than the other.
+  
+ 
